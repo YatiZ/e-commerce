@@ -1,0 +1,30 @@
+1.python3 -m venv env
+2.pip install django
+3.pip install django-cors-headers -> security
+
+4.pip install djoser -> for login & token
+
+5.pip install Pillow ->image
+
+6.pip install stripe
+ADD STRIPE_SECRET_KEY
+
+Vue setup 
+1.npm install axios 
+2.npm install bulma - > css framwork
+
+Start with design 
+1.do burger button
+
+set opp Vuex/state
+function store
+
+initialize in app & connect with product 
+
+install-> npm install bulma-toast
+
+and add toast in the cart click function
+
+set loading bar
+
+change document title 
